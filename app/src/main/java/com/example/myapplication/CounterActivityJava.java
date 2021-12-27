@@ -13,6 +13,7 @@ public class CounterActivityJava extends AppCompatActivity {
     Button btnDecrement;
     int Counter = 0;
     Button btnReset;
+//
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
